@@ -1,0 +1,14 @@
+:root{
+  --bg:#262626;
+  --card:#2f2f2f;
+  --muted:#bdbdbd;
+  --accent:#0b84ff;
+}
+body{
+  margin:0;
+  font-family:Inter, system-ui, sans-serif;
+  background:var(--bg);
+  color:#eee;
+}
+a{ color:inherit; }
+button{ cursor:pointer; }
